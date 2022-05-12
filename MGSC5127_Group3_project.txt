@@ -1,0 +1,14 @@
+
+Project Topic: Weather Trends in Canada over the past 10 years (2011 - 2021)
+
+***************************************************************************************************************************************** 
+
+Student ID: Jinal Ajay Patel (0245097) 
+	    Manik Sood (242207)
+            Akshay Sareen (20198316)
+            Ajay Pratap Singh Rathore (0242630)
+                   
+
+Dataset Name and URL: Canada Weather, https://climate.weather.gc.ca/historical_data/search_historic_data_e.html
+
+*****************************************************************************************************************************************        
